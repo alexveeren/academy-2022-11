@@ -1,5 +1,5 @@
 with
-    sorce_products as (
+    source_products as (
         select  
             cast(product_id as int) as id_produto
             , cast(supplier_id as int) as id_fornecedor
