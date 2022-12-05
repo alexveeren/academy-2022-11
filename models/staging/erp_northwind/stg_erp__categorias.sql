@@ -9,4 +9,4 @@ with
     )
 
 select *
-from sorce_products
+from source_categories
